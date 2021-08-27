@@ -1,0 +1,16 @@
+C:\Users\Ahmet Balkı\source\repos\Zoom Application\Zoom Application\bin\Debug\netcoreapp3.1\Zoom Application.exe
+C:\Users\Ahmet Balkı\source\repos\Zoom Application\Zoom Application\bin\Debug\netcoreapp3.1\Zoom Application.deps.json
+C:\Users\Ahmet Balkı\source\repos\Zoom Application\Zoom Application\bin\Debug\netcoreapp3.1\Zoom Application.runtimeconfig.json
+C:\Users\Ahmet Balkı\source\repos\Zoom Application\Zoom Application\bin\Debug\netcoreapp3.1\Zoom Application.runtimeconfig.dev.json
+C:\Users\Ahmet Balkı\source\repos\Zoom Application\Zoom Application\bin\Debug\netcoreapp3.1\Zoom Application.dll
+C:\Users\Ahmet Balkı\source\repos\Zoom Application\Zoom Application\bin\Debug\netcoreapp3.1\Zoom Application.pdb
+C:\Users\Ahmet Balkı\source\repos\Zoom Application\Zoom Application\obj\Debug\netcoreapp3.1\Zoom Application.csprojAssemblyReference.cache
+C:\Users\Ahmet Balkı\source\repos\Zoom Application\Zoom Application\obj\Debug\netcoreapp3.1\Zoom_Application.Form1.resources
+C:\Users\Ahmet Balkı\source\repos\Zoom Application\Zoom Application\obj\Debug\netcoreapp3.1\Zoom Application.csproj.GenerateResource.cache
+C:\Users\Ahmet Balkı\source\repos\Zoom Application\Zoom Application\obj\Debug\netcoreapp3.1\Zoom Application.AssemblyInfoInputs.cache
+C:\Users\Ahmet Balkı\source\repos\Zoom Application\Zoom Application\obj\Debug\netcoreapp3.1\Zoom Application.AssemblyInfo.cs
+C:\Users\Ahmet Balkı\source\repos\Zoom Application\Zoom Application\obj\Debug\netcoreapp3.1\Zoom Application.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet Balkı\source\repos\Zoom Application\Zoom Application\obj\Debug\netcoreapp3.1\Zoom Application.dll
+C:\Users\Ahmet Balkı\source\repos\Zoom Application\Zoom Application\obj\Debug\netcoreapp3.1\Zoom Application.pdb
+C:\Users\Ahmet Balkı\source\repos\Zoom Application\Zoom Application\obj\Debug\netcoreapp3.1\Zoom Application.genruntimeconfig.cache
+C:\Users\Ahmet Balkı\source\repos\Zoom Application\Zoom Application\obj\Debug\netcoreapp3.1\Zoom_Application.Properties.Resources.resources
